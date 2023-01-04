@@ -51,6 +51,13 @@ The shell also supports execution of multiple commands entered in same input. Th
 
 > Note: `SGL_PIPE` refers to `|`, `DBL_PIPE` refers to `||` and `TPL_PIPE` refers to `|||`.
 
+## Screenshots
+![](screenshots/pic1.png)
+
+![](screenshots/pic2.png)
+
+![](screenshots/pic3.png)
+
 ## References
 1. [***The Linux Programming Interface***](https://man7.org/tlpi/) by Michael Kerrisk
 2. ***Advanced Programming in the UNIX Environment*** by W. Richard Stevens and Stephen A. Rago
